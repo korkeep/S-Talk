@@ -3,15 +3,6 @@
 ## Project Goal
 보안 기능이 향상된 Android 메신저 앱 개발
 
-## Features
-- 지문 정보를 이용한 2단계 인증
-- 공개키 기반 메시지 암·복호화
-- SSL/TLS를 이용한 데이터 전송
-
-## To-Do List
-- 공개키 기반 메시지 암·복호화
-- SSL/TLS를 이용한 데이터 전송
-
 ## Application UI
 ### Splash Activity
 ![image](https://user-images.githubusercontent.com/20378368/107114927-b9744300-68ac-11eb-886a-1b6cf133f6a0.png)
